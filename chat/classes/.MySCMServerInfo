@@ -1,0 +1,4 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/classes
+class.phpmailer.php;2895020781;1;1585570572;
+class.smtp.php;1259149115;1;1585570572;

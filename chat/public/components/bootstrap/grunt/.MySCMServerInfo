@@ -1,0 +1,11 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/bootstrap/grunt
+.jshintrc;3267619477;1;1585570353;
+bs-commonjs-generator.js;2192639265;1;1585570606;
+bs-glyphicons-data-generator.js;2181295119;1;1585570606;
+bs-lessdoc-parser.js;1035669374;1;1585570606;
+bs-raw-files-generator.js;2561885221;1;1585570606;
+change-version.js;3105805322;1;1585570606;
+configBridge.json;4107389128;1;1585570606;
+npm-shrinkwrap.json;2482564276;1;1585570606;
+sauce_browsers.yml;3886357651;1;1585570606;

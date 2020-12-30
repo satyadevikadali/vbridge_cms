@@ -1,0 +1,13 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/bootstrap-colorpicker/docs/includes/examples
+01_basic.hbs;640709515;1;1585570351;
+02_component.hbs;3569157613;1;1585570351;
+03_component_options.hbs;3104832903;1;1585570351;
+04_events.hbs;2964625306;1;1585570351;
+05_transparent.hbs;492966028;1;1585570351;
+06_horizontal.hbs;1439275439;1;1585570351;
+07_inline.hbs;420217827;1;1585570351;
+08_palette.hbs;685144262;1;1585570351;
+09_size.hbs;2382803936;1;1585570351;
+10_disabled.hbs;3336389520;1;1585570351;
+11_modal.hbs;2482562874;1;1585570351;

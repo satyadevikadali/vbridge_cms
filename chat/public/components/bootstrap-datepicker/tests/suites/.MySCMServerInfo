@@ -1,0 +1,13 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/bootstrap-datepicker/tests/suites
+calendar-weeks.js;3509821467;1;1585570603;
+component.js;1687410734;1;1585570603;
+data-api.js;3306248621;1;1585570603;
+events.js;2077162649;1;1585570603;
+formats.js;1678660321;1;1585570603;
+inline.js;2997141425;1;1585570603;
+methods.js;3847213061;1;1585570603;
+methods_jquery.js;3238407126;1;1585570603;
+noconflict.js;3566494779;1;1585570604;
+options.js;236017022;1;1585570604;
+timezone.js;1908455864;1;1585570970;

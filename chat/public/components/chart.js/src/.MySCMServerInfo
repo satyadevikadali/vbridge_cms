@@ -1,0 +1,8 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/chart.js/src
+Chart.Bar.js;2408850456;1;1585570611;
+Chart.Core.js;158276296;1;1585570611;
+Chart.Doughnut.js;97617234;1;1585570611;
+Chart.Line.js;4253011880;1;1585570611;
+Chart.PolarArea.js;2629557824;1;1585570611;
+Chart.Radar.js;1098659234;1;1585570611;

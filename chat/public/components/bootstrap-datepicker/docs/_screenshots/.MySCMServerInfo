@@ -1,0 +1,17 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/bootstrap-datepicker/docs/_screenshots
+demo_head.html;2906304049;1;1585570597;
+markup_component.html;4165859290;1;1585570597;
+markup_daterange.html;754383843;1;1585570597;
+markup_inline.html;2576292520;1;1585570597;
+markup_input.html;396750285;1;1585570597;
+option_calendarweeks.html;772259579;1;1585570597;
+option_clearbtn.html;290806724;1;1585570597;
+option_daysofweekdisabled.html;1776918314;1;1585570597;
+option_enddate.html;1939506236;1;1585570597;
+option_language.html;3698430069;1;1585570597;
+option_multidate.html;2104656220;1;1585570597;
+option_startdate.html;350306059;1;1585570598;
+option_todaybtn.html;558004827;1;1585570598;
+option_todayhighlight.html;1957985204;1;1585570598;
+option_weekstart.html;624013026;1;1585570598;

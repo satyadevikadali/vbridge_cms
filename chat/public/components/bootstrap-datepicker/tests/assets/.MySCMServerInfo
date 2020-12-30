@@ -1,0 +1,9 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/chat/public/components/bootstrap-datepicker/tests/assets
+coverage.js;599182198;1;1585570603;
+jquery-1.7.1.min.js;3205931685;1;1585570603;
+mock.js;2081377253;1;1585570603;
+qunit-logging.js;2786663792;1;1585570603;
+qunit.css;617710218;1;1585570603;
+qunit.js;4090648440;1;1585570603;
+utils.js;1825927850;1;1585570970;

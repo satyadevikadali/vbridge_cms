@@ -1,0 +1,10 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_customtables/libraries/codemirror/addon/hint
+anyword-hint.js;31796317;1;1543236958;
+css-hint.js;2735319899;1;1543236958;
+html-hint.js;1175874450;1;1543236958;
+javascript-hint.js;2494370158;1;1543236958;
+show-hint.css;2887692382;1;1543236958;
+show-hint.js;1251440500;1;1543236958;
+sql-hint.js;560373270;1;1543236958;
+xml-hint.js;914684730;1;1543236958;

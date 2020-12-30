@@ -1,0 +1,12 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_installer/models
+database.php;2755470688;1;1543254676;
+discover.php;4294340238;1;1543254676;
+extension.php;1008311469;1;1543254676;
+index.html;2299680422;1;1431605336;
+install.php;1718132471;1;1543254676;
+languages.php;2833896851;1;1543254676;
+manage.php;1749797193;1;1543254676;
+update.php;1129667497;1;1543254676;
+updatesites.php;1406106566;1;1543254676;
+warnings.php;679701593;1;1543254676;

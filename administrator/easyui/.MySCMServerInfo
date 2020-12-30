@@ -1,0 +1,9 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/easyui
+changelog.txt;1515804697;1;1468919404;
+easyloader.js;372893209;1;1469983206;
+jquery.easyui.min.js;3584365118;1;1469983210;
+jquery.easyui.mobile.js;1832084534;1;1469983206;
+jquery.min.js;2472904206;1;1434602886;
+license_freeware.txt;3542206588;1;1445835674;
+readme.txt;1153533659;1;1469982814;

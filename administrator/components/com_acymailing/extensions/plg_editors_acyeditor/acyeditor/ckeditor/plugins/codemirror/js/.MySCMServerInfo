@@ -1,0 +1,12 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_acymailing/extensions/plg_editors_acyeditor/acyeditor/ckeditor/plugins/codemirror/js
+beautify.min.js;1272623184;1;1446087292;
+codemirror.addons.min.js;679953072;1;1446087292;
+codemirror.addons.search.min.js;914383567;1;1446087292;
+codemirror.min.js;4208052820;1;1446087292;
+codemirror.mode.bbcode.min.js;574484271;1;1446087292;
+codemirror.mode.bbcodemixed.min.js;574484271;1;1446087292;
+codemirror.mode.htmlmixed.min.js;3276839910;1;1446087292;
+codemirror.mode.javascript.min.js;1587769930;1;1446087292;
+codemirror.mode.php.min.js;1819559425;1;1446087292;
+index.html;1864180681;1;1446087292;

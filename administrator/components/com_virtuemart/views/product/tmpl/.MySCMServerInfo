@@ -1,0 +1,15 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_virtuemart/views/product/tmpl
+default.php;92521089;1;1541416688;
+index.html;4294967295;1;1431605386;
+massxref.php;1155424305;1;1541416688;
+product_edit.php;815991026;1;1541416688;
+product_edit_childs.php;2386548475;1;1541416688;
+product_edit_custom.php;620129763;1;1541416688;
+product_edit_customer.php;2585187332;1;1541416688;
+product_edit_description.php;3233541421;1;1541416688;
+product_edit_dimensions.php;2301333348;1;1541416688;
+product_edit_images.php;2392401139;1;1541416688;
+product_edit_information.php;4211860962;1;1541416688;
+product_edit_price.php;1686761017;1;1541416688;
+product_edit_status.php;1202381798;1;1541416688;

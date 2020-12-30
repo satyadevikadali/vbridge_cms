@@ -1,0 +1,13 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_virtuemart/install
+index.html;4294967295;1;1431605396;
+install.sql;110131273;1;1541416688;
+install_essential_data.sql;3565432505;1;1541416688;
+install_required_data.sql;3647682416;1;1541416688;
+install_sample_data.sql;3132304631;1;1541416688;
+joomla2.sql;2025436047;1;1541416688;
+script.virtuemart.php;2949403136;1;1541416688;
+uninstall.sql;291371968;1;1541416688;
+uninstall_data.sql;1712398952;1;1541416688;
+uninstall_essential_data.sql;2950873162;1;1541416688;
+uninstall_required_data.sql;1956889651;1;1541416688;

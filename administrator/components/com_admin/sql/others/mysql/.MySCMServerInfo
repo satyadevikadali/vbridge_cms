@@ -1,0 +1,4 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_admin/sql/others/mysql
+utf8mb4-conversion-01.sql;2572065737;1;1543254676;
+utf8mb4-conversion-02.sql;3869685774;1;1543254676;

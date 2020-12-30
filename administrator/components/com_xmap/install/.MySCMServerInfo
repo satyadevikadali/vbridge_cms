@@ -1,0 +1,7 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_xmap/install
+index.html;3457627829;1;1431605400;
+install.postgresql.sql;2251380779;1;1431605400;
+install.utf8.sql;1780460985;1;1431605400;
+uninstall.postgresql.sql;2074819280;1;1431605400;
+uninstall.utf8.sql;2624259888;1;1431605400;

@@ -1,0 +1,9 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_privacy/models
+capabilities.php;1112696953;1;1543254676;
+consents.php;4060003765;1;1543254676;
+dashboard.php;1083351318;1;1543254676;
+export.php;1766112719;1;1543254676;
+remove.php;3069532738;1;1543254676;
+request.php;4116247296;1;1543254676;
+requests.php;249265043;1;1543254676;

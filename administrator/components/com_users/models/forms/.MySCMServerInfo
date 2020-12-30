@@ -1,0 +1,15 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_users/models/forms
+config_domain.xml;740399287;1;1543254676;
+filter_debuggroup.xml;3208389928;1;1543254676;
+filter_debuguser.xml;3394550845;1;1543254676;
+filter_groups.xml;3810681173;1;1543254676;
+filter_levels.xml;679929992;1;1543254676;
+filter_notes.xml;3896199774;1;1543254676;
+filter_users.xml;425754282;1;1543254676;
+group.xml;1676486064;1;1543254676;
+index.html;2299680422;1;1431605378;
+level.xml;338257788;1;1543254676;
+mail.xml;2939695842;1;1543254676;
+note.xml;4169987498;1;1543254676;
+user.xml;909774764;1;1543254676;

@@ -1,0 +1,6 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_vbridge/sql
+index.html;3059184759;1;1544765024;
+install.mysql.utf8.sql;3069291659;1;1544765024;
+uninstall.mysql.utf8.sql;3725749732;1;1544765024;
+update.mysql.utf8.sql;2549878907;1;1544765024;

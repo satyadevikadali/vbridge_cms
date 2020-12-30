@@ -1,0 +1,12 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_jce/views/installer/tmpl
+index.html;1864180681;1;1446087422;
+install.php;4195455320;1;1446087420;
+install_extensions.php;1244324968;1;1446087420;
+install_ftp.php;3308755129;1;1446087420;
+install_install.php;4191406071;1;1446087420;
+install_languages.php;2321495454;1;1446087420;
+install_message.php;1876355251;1;1446087420;
+install_plugins.php;1558168402;1;1446087420;
+install_related.php;1677232749;1;1446087420;
+install_uninstall.php;1820454489;1;1446087420;

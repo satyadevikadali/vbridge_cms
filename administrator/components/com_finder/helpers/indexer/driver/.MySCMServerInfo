@@ -1,0 +1,6 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_finder/helpers/indexer/driver
+index.html;3457627829;1;1431605402;
+mysql.php;2760431545;1;1543254676;
+postgresql.php;3557802524;1;1543254676;
+sqlsrv.php;1589521119;1;1543254676;

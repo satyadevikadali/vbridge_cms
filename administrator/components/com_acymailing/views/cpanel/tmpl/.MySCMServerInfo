@@ -1,0 +1,12 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_acymailing/views/cpanel/tmpl
+acl.php;2094828590;1;1446087296;
+default.php;1285881088;1;1446087296;
+index.html;1864180681;1;1446087296;
+interface.php;2442763533;1;1446087296;
+languages.php;2118508945;1;1446087296;
+mail.php;58736983;1;1446087296;
+plugins.php;1775092764;1;1446087296;
+queue.php;3141699522;1;1446087296;
+security.php;2045401897;1;1446087296;
+subscription.php;4201837964;1;1446087296;

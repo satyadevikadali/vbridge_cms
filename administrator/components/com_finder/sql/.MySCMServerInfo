@@ -1,0 +1,7 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_finder/sql
+index.html;3457627829;1;1431605402;
+install.mysql.sql;1627515095;1;1543254676;
+install.postgresql.sql;540774920;1;1543254676;
+uninstall.mysql.sql;1770926591;1;1543254676;
+uninstall.postgresql.sql;3602414830;1;1543254676;

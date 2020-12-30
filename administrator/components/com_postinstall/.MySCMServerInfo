@@ -1,0 +1,9 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_postinstall
+access.xml;2218187839;1;1543254676;
+config.xml;3515906105;1;1543254676;
+fof.xml;2344337465;1;1543254676;
+index.html;2299680422;1;1431605410;
+postinstall.php;558711665;1;1543254676;
+postinstall.xml;1227868059;1;1543254676;
+toolbar.php;3397733011;1;1543254676;

@@ -1,0 +1,17 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/easyui/demo/combobox
+actions.html;1528430236;1;1468385872;
+basic.html;2702052086;1;1468385926;
+combobox_data1.json;703404807;1;1351828512;
+combobox_data2.json;2737892922;1;1368677952;
+customformat.html;2644745809;1;1468386012;
+dynamicdata.html;3969372383;1;1468386084;
+fluid.html;3879508562;1;1468386194;
+group.html;3609272866;1;1468386262;
+icons.html;2743166384;1;1468386340;
+itemicon.html;3874662857;1;1468386466;
+multiline.html;2099870424;1;1468386536;
+multiple.html;2788118444;1;1468386632;
+navigation.html;972812563;1;1468386676;
+remotedata.html;1673884542;1;1468386736;
+remotejsonp.html;1084881760;1;1468386808;

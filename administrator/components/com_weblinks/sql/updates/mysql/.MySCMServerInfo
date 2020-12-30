@@ -1,0 +1,4 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_weblinks/sql/updates/mysql
+3.4.0.sql;68291569;1;1525673280;
+3.5.1.sql;318543067;1;1525673280;

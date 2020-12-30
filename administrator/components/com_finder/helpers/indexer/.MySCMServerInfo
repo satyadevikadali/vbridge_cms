@@ -1,0 +1,12 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_finder/helpers/indexer
+adapter.php;3167040872;1;1543254676;
+helper.php;2831689760;1;1543254676;
+index.html;3457627829;1;1431605402;
+indexer.php;3439559775;1;1543254676;
+parser.php;1001387503;1;1543254676;
+query.php;2667225808;1;1543254676;
+result.php;2549324982;1;1543254676;
+stemmer.php;97120783;1;1543254676;
+taxonomy.php;2677542390;1;1543254676;
+token.php;1859061769;1;1543254676;

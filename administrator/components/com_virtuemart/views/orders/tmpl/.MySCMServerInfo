@@ -1,0 +1,8 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_virtuemart/views/orders/tmpl
+index.html;4294967295;1;1431605388;
+order.php;1930043652;1;1541416688;
+orders.php;1665026413;1;1541416688;
+order_editstatus.php;4185784653;1;1541416688;
+order_item.php;1441179095;1;1541416688;
+order_print.php;2063669322;1;1541416688;

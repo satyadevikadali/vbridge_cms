@@ -1,0 +1,15 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_virtuemart/views/config/tmpl
+default.php;1236910891;1;1541416688;
+default_checkout.php;3004800507;1;1541416688;
+default_email.php;1916678801;1;1541416688;
+default_feeds.php;4106434612;1;1541416688;
+default_priceconfig.php;424377729;1;1541416688;
+default_pricing.php;1277089674;1;1541416688;
+default_product_order.php;4101243633;1;1541416688;
+default_sef.php;196406259;1;1541416688;
+default_shop.php;2073982055;1;1541416688;
+default_shopfront.php;1798148500;1;1541416688;
+default_templates.php;657290004;1;1541416688;
+index.html;1864180681;1;1431605390;
+template_params.php;120096607;1;1541416688;

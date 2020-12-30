@@ -1,0 +1,6 @@
+SCMBranch=OSP_New
+SCMRepository=OSP_New/vbridge_portal/administrator/components/com_jce/sql
+index.html;1864180681;1;1446087422;
+mysql.sql;2804614131;1;1446087420;
+postgresql.sql;4015103470;1;1446087420;
+sqlsrv.sql;4253617978;1;1446087420;
